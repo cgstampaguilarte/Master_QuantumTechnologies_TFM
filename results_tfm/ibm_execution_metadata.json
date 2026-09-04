@@ -1,0 +1,38 @@
+{
+  "job_id": "da87ftmsidac73ag5vi0",
+  "backend": "ibm_marrakesh",
+  "shots": 512,
+  "submitted_at": "2026-08-27T17:46:22.619609+00:00",
+  "finished_at": "2026-08-27T18:08:32.354866+00:00",
+  "qiskit_version": "2.5.2",
+  "qiskit_ibm_runtime_version": "0.47.0",
+  "python_version": "3.14.3",
+  "optimization_level": 3,
+  "seed_transpiler": 42,
+  "job_metrics": {
+    "caller": "qiskit_ibm_runtime~sampler.py",
+    "qiskit_version": "qiskit_ibm_runtime-0.47.0,qiskit-2.5.2*",
+    "timestamps": {
+      "created": "2026-08-27T17:46:30.697891Z",
+      "finished": "2026-08-27T18:08:30.418979Z",
+      "running": "2026-08-27T17:46:49.234787Z"
+    },
+    "bss": {
+      "seconds": 113
+    },
+    "usage": {
+      "quantum_seconds": 113,
+      "seconds": 113,
+      "status": "complete"
+    }
+  },
+  "transpilation_stats": {
+    "depth_min": 345,
+    "depth_mean": 352.873417721519,
+    "depth_max": 358,
+    "two_qubit_min": 179,
+    "two_qubit_mean": 179.0,
+    "two_qubit_max": 179,
+    "n_circuits": 790
+  }
+}

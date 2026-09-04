@@ -1,0 +1,16 @@
+{
+  "train_accuracy": 1.0,
+  "test_accuracy": 0.6333333333333333,
+  "balanced_accuracy": 0.575,
+  "f1": 0.7317073170731707,
+  "precision": 0.7142857142857143,
+  "recall": 0.75,
+  "SEP_accuracy": 0.4,
+  "PPT_accuracy": 0.9,
+  "NPPT_accuracy": 0.6,
+  "relative_frobenius_train": 0.4407570829522893,
+  "relative_frobenius_test": 0.6050140165012884,
+  "max_symmetry_error_K_train": 0.0,
+  "min_eigenvalue_K_train": 0.693691235181081,
+  "shots": 512
+}
